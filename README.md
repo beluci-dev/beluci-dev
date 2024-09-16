@@ -5,6 +5,7 @@ I'm a developer with a degree in Systems Analysis and Development and over 8 yea
 ---
 
 ## 🕹️ What I’m Working On
+- [**[Flux Anticheat]**](https://fluxanticheat.com/): (Company focused on creating FiveM anticheat)
 - [**[Space Group]**](https://github.com/Spacerp2022): (Company focused on creating FiveM servers)
 - [**[Nexus Group]**](https://github.com/nexus-Grupo/): (Company focused on creating FiveM servers)
 
