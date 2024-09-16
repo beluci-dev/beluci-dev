@@ -1,6 +1,6 @@
 # Hi there, I'm Beluci! 👋
 
-I'm a developer with a degree in Systems Analysis and Development and over 8 years of experience. I focus on game development, server security, and API design, specializing in multiplayer mods and anti-cheat systems.
+I'm a developer with a degree in Systems Analysis and Development and over 8 years of experience. I focus on game development, server security, and API design, specializing in multiplayer games and anti-cheat systems.
 
 ---
 
