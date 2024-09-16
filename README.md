@@ -18,7 +18,7 @@ I'm a developer with a degree in Systems Analysis and Development and over 8 yea
 ---
 
 ## 🌍 Let's Connect!
-- **Email**: heron.srs@gmail.com
+- **Email**: h.beluci@gmail.com
 - **Discord**: .beluci
 
 ---
