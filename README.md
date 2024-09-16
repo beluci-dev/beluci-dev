@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Beluci! 👋
 
-<!--
-**beluci-dev/beluci-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer with a degree in Systems Analysis and Development and over 8 years of experience. I focus on game development, server security, and API design, specializing in multiplayer mods and anti-cheat systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🕹️ What I’m Working On
+- [**[Space Group]**](https://github.com/Spacerp2022): (Company focused on creating FiveM servers)
+- [**[Nexus Group]**](https://github.com/nexus-Grupo/): (Company focused on creating FiveM servers)
+
+---
+
+## 🛠️ Skills
+- **Languages**: JavaScript, PHP, Lua, C, SQL & +.
+- **Frameworks**: VueJS, Express.js, PostgreSQL, Bootstrap5 & lots +.
+- **Tools**: VsCode, Copilot, Gpt4, Google Cloud, Cloudflare & lots +.
+
+---
+
+## 🌍 Let's Connect!
+- **Email**: heron.srs@gmail.com
+- **Discord**: .beluci
+
+---
+
+Feel free to explore my projects and reach out for collaborations!
