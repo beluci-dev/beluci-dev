@@ -1,20 +1,52 @@
 # Hi there, I'm Beluci! 👋
 
-I'm a developer with a degree in Systems Analysis and Development and over 10 years of experience. I focus on game development, server security, and API design, specializing in multiplayer games and anti-cheat systems.
+I'm a **Senior AI Engineer & Full Stack Developer** with over 10 years of experience.
+Currently focused on building intelligent SaaS products, RAG systems, and Agentic AI workflows. My background includes high-performance game development and server security.
 
 ---
 
-## 🕹️ What I’m Working On
-- [**[Flux Anticheat]**](https://fluxanticheat.com/): (Company focused on creating FiveM anticheat)
-- [**[Space Group]**](https://github.com/Spacerp2022): (Company focused on creating FiveM servers)
-- [**[Nexus Group]**](https://github.com/nexus-Grupo/): (Company focused on creating FiveM servers)
+## 🚀 Featured Projects
+
+### 📰 [Custom News](https://customne.ws)
+> **SaaS | AI | Personalization**
+> An intelligent newsletter platform that cures personalized content using AI agents.
+> * **Stack**: AI Agents, Email Infrastructure, RSS/API Aggregation.
+
+### 🧠 [Flux Planner](https://planner.fluxmods.com/)
+> **Productivity | Generative AI | React Flow**
+> An infinite canvas for project planning that turns ideas into actionable structures using Google Gemini.
+> * **Stack**: React Flow, Google Gemini SDK, Node.js, Vector DB.
+
+### 🛡️ [Flux Anticheat](https://fluxanticheat.com/)
+> **Security | Game Dev | Low-level**
+> A market-leading anti-cheat solution for FiveM servers protecting thousands of players.
+> * **Stack**: Lua, Real-time Threat Detection.
 
 ---
 
-## 🛠️ Skills
-- **Languages**: JavaScript, PHP, Lua, C, SQL & +.
-- **Frameworks**: VueJS, Express.js, PostgreSQL, Bootstrap5 & lots +.
-- **Tools**: VsCode, Copilot, Gpt4, Google Cloud, Cloudflare & lots +.
+## 💼 Professional Experience
+
+### 🪐 [Space Group](https://github.com/Spacerp2022)
+> **Game Servers | Community**
+> Creating immersive roleplay experiences and high-performance FiveM servers.
+> * **Role**: Developer.
+
+### 🔗 [Nexus Group](https://github.com/nexus-Grupo/)
+> **Game Servers | Development**
+> Developing scalable server infrastructure and custom game modes for FiveM.
+> * **Role**: Developer.
+
+---
+
+## 🛠️ Skills & Stack
+
+| Domain | Technologies |
+| :--- | :--- |
+| **🤖 AI & ML** | **RAG Systems**, **Vector DBs** ([Vectorizer](https://github.com/hivellm/vectorizer/tree/main)), **LLM Integration** (Gemini/OpenAI), Prompt Engineering, Agentic Workflows |
+| **💻 Frontend** | **React 18**, **TypeScript**, TailwindCSS, Vite, Next.js |
+| **⚙️ Backend** | **Node.js**, Express, **MySQL / MariaDB**, Serverless, API Design, Docker |
+| **🎮 Game Dev** | **Lua** (FiveM/CitizenFX), **C**, Network Optimization, Anti-cheat Development |
+| **🔌 IoT & Hardware** | **Arduino**, **C++**, Device Communication, Prototyping, Automation |
 
 ---
 
@@ -22,6 +54,4 @@ I'm a developer with a degree in Systems Analysis and Development and over 10 ye
 - **Email**: h.beluci@gmail.com
 - **Discord**: .beluci
 
----
-
-Feel free to explore my projects and reach out for collaborations!
+Feel free to explore my projects!
