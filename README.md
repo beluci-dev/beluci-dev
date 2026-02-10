@@ -51,7 +51,7 @@ Currently focused on building intelligent SaaS products, RAG systems, and Agenti
 ---
 
 ## 🌍 Let's Connect!
-- **Email**: h.beluci@gmail.com
+- **Email**: support@fluxmods.com
 - **Discord**: .beluci
 
 Feel free to explore my projects!
