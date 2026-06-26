@@ -7,11 +7,6 @@ Currently focused on building intelligent SaaS products, RAG systems, and Agenti
 
 ## 🚀 Featured Projects
 
-### 📰 [Custom News](https://customne.ws)
-> **SaaS | AI | Personalization**
-> An intelligent newsletter platform that cures personalized content using AI agents.
-> * **Stack**: AI Agents, Email Infrastructure, RSS/API Aggregation.
-
 ### 🧠 [Flux Planner](https://planner.fluxmods.com/)
 > **Productivity | Generative AI | React Flow**
 > An infinite canvas for project planning that turns ideas into actionable structures using Google Gemini.
