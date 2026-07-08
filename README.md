@@ -7,12 +7,12 @@ Currently focused on building intelligent SaaS products, RAG systems, and Agenti
 
 ## 🚀 Featured Projects
 
-### 📰 [Custom News](https://customne.ws)
+### 📰 [Custom News](#)
 > **SaaS | AI | Personalization**
 > An intelligent newsletter platform that cures personalized content using AI agents.
 > * **Stack**: AI Agents, Email Infrastructure, RSS/API Aggregation.
 
-### 🧠 [Flux Planner](https://planner.fluxmods.com/)
+### 🧠 [Flux Planner](#)
 > **Productivity | Generative AI | React Flow**
 > An infinite canvas for project planning that turns ideas into actionable structures using Google Gemini.
 > * **Stack**: React Flow, Google Gemini SDK, Node.js, Vector DB.
@@ -51,7 +51,7 @@ Currently focused on building intelligent SaaS products, RAG systems, and Agenti
 ---
 
 ## 🌍 Let's Connect!
-- **Email**: support@fluxmods.com
+- **Email**: contact@beluci.dev
 - **Discord**: .beluci
 
 Feel free to explore my projects!
